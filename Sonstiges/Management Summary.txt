@@ -1,0 +1,38 @@
+
+
+Spiel: Monopoly
+
+Teammitglieder: 
+Daniel Jessernig
+Dermutz Hannes
+Roman Graf
+Valentin Garvan
+Faeser Christoph
+Ferijanz Beate
+
+
+Grobe Struktur und Ideen: 
+
+Netzwerk aufbauen (c.a. 1 Woche bis 10 Tage)
+Framework festlegen - Vorschlag Google Firebase (Kommunikation) 
+Verbindung zum Host implementieren
+Hauptmenü festlegen (Startbildschirm)
+Untermenü (Spiel beitreten, Optionen...)
+Spielbrett, Aufbau (Klassisch oder eigene Version?) 
+Würfeln (Sensoren einbauen, Handy schütteln zum Würfeln)
+Regeln für's Würfeln festlegen
+Ereigniskarten abbilden (wie sollen sie aussehen, bzw. welche Aufgaben enthalten Sie)
+Bänker festlegen (Austeilen des Startguthabens, generelles Abwickeln der Geldgeschäfte)
+Auslösen der einzelnen Karten
+Kauf von Karten - (Auktionsfunktion)
+Karten tauschen
+Ist es möglich mitten im Spiel einzusteigen?
+Schummelfunktion
+Geldregen (ev. durch Sensoren) 
+Wie viele Häuser sind maximal möglich?
+...
+
+
+
+
+
